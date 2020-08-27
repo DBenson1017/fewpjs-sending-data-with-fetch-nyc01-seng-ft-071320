@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,88 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "devin",
+      "email": "email",
+      "id": 1
+    },
+    {
+      "name": "devin",
+      "email": "gmail",
+      "id": 2
+    },
+    {
+      "name": "devin",
+      "email": "test@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "devin",
+      "email": "test@email",
+      "id": 4
+    },
+    {
+      "name": "devin",
+      "email": "email@test",
+      "id": 5
+    },
+    {
+      "name": "devin",
+      "email": "test",
+      "id": 6
+    },
+    {
+      "name": "devin",
+      "email": "email@gmail",
+      "id": 7
+    },
+    {
+      "name": "devin",
+      "email": "email",
+      "id": 8
+    },
+    {
+      "name": "devin",
+      "email": "email",
+      "id": 9
+    },
+    {
+      "name": "devin",
+      "email": "email",
+      "id": 10
+    },
+    {
+      "name": "devin",
+      "email": "email",
+      "id": 11
+    },
+    {
+      "name": "devin",
+      "email": "email",
+      "id": 12
+    },
+    {
+      "name": "Devin",
+      "email": "email",
+      "id": 13
+    },
+    {
+      "name": "d",
+      "email": "e",
+      "id": 14
+    },
+    {
+      "name": "d",
+      "email": "e",
+      "id": 15
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
